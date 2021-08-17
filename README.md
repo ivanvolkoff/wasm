@@ -11,7 +11,8 @@ These examples have been tested with [node v14.17.4](https://nodejs.org/en/), [c
 
 Now lets compile.
 
-```clang sort.c \
+```
+clang sort.c \
   --target=wasm32-unknown-unknown-wasm \
   --optimize=3 \
   -nostdlib \
