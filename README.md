@@ -3,8 +3,6 @@ These examples have been tested with [node v14.17.4](https://nodejs.org/en/), [c
 
 1. Download the repo:
 
-`https://github.com/vanolincikus/wasm`
-
 2.Open terminal on root folder.
 
 3. Build the wasm module.
